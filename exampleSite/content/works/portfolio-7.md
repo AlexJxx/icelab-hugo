@@ -2,7 +2,7 @@
 category = "office bulding / residential / whatever"
 client = "(beneficiar)"
 company = "(de exemplu firma pentru care s-a facut proiectu bla bla bla)"
-date = 2022-11-16T22:00:00Z
+date = 2022-11-07T22:00:00Z
 image = "/images/pexels-binyamin-mellish-106399.jpg"
 location = "Ploiesti"
 siteLink = "#"
