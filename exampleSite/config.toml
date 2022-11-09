@@ -6,8 +6,8 @@ title = "Icelab Studio"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "https://im-design-srl.business.site/"
-url = "Test External"
+name = "Test External"
+url = "https://im-design-srl.business.site/"
 weight = 4
 [[menu.main]]
 URL = "contact"
