@@ -9,6 +9,6 @@ siteLink = "#"
 title = "Test Sectiune Proiect "
 
 +++
-S-a facut aicea proiect f frumos se vede se alea cu poze ce vrei tu 
+S-a facut aicea proiect f frumos se vede se alea cu poze ce vrei tu
 
 ![House Plans Explained - How to Draw Your House Plan Online - RoomSketcher](https://wpmedia.roomsketcher.com/content/uploads/2022/01/06145940/What-is-a-floor-plan-with-dimensions.png)
