@@ -26,5 +26,11 @@ fields:
 - type: text
   name: siteLink
   label: site link
+- name: tag-label-test
+  type: tag_list
+  default: []
+  label: tag-label
+  description: test label
+  hidden: false
 pages:
 - exampleSite/content/works/portfolio-7.md
