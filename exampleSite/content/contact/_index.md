@@ -12,5 +12,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 * Skype : Mehedi Sharif Titas
 * Whatsapp : +880 1672 506 744
 * Address : Shyamoli, Dhaka.
-
-Contact Test

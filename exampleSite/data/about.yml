@@ -1,63 +1,51 @@
-#########################3 history ############################
+---
 history:
-  enable : true
-  image: "images/history-image.png"
-  subtitle : "History"
-  title : "Give us a task & <br> we'll implement it"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liquam fina water. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit. in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-          
-  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium"
-
-
-################################ Team ###########################
+  enable: true
+  image: images/history-image.png
+  subtitle: History
+  title: Give us a task & <br> we'll implement it
+  content: We are an interdisciplinary office for sustainable architecture with long
+    reach and an expansive, portfolio. Our design skills extend beyond mere architectural
+    services, including urban planning, interior design, landscape design, graphic
+    design, and product design.
 team:
-  enable : true
-  subtitle : "Our Strenght"
-  title : "Meet Our Team"
+  enable: true
+  subtitle: Our Strenght
+  title: Meet Our Team
   team_member:
-    # team member loop
-    - name : "Mehedi Titash"
-      image : "images/team/team-member-01.jpg"
-      image_bg : "images/team/team-member-01-bg.jpg"
-      designation : "CEO & Chief"
-      
-    # team member loop
-    - name : "Jarina Khatun"
-      image : "images/team/team-member-02.jpg"
-      image_bg : "images/team/team-member-02-bg.jpg"
-      designation : "Content Writter"
-      
-    # team member loop
-    - name : "Fahad Alam"
-      image : "images/team/team-member-03.jpg"
-      image_bg : "images/team/team-member-03-bg.jpg"
-      designation : "Ui/UX Designer"
-
-
-############################### philosophy ###########################
+  - name: Mehedi Titash
+    image: images/team/team-member-01.jpg
+    image_bg: images/team/team-member-01-bg.jpg
+    designation: CEO & Chief
+  - name: Jarina Khatun
+    image: images/team/team-member-02.jpg
+    image_bg: images/team/team-member-02-bg.jpg
+    designation: Content Writter
+  - name: Fahad Alam
+    image: images/team/team-member-03.jpg
+    image_bg: images/team/team-member-03-bg.jpg
+    designation: Ui/UX Designer
 philosophy:
-  enable : true
-  subtitle : "Philosophy"
-  title : "We design for human, So user first"
-  image : "images/philosophy-image.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liquam fina water. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit. in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  enable: true
+  subtitle: Philosophy
+  title: We design for human, So user first
+  image: images/philosophy-image.jpg
+  content: |-
+    As architects, we are involved in the project from start to finish. By definition, architecture is a very collaborative process, so we usually provide full architectural design services and consultancy services during the construction phase. We work at all scales and in all sectors.
 
-          
-  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium"
+    We create transformative commercial, cultural. corporate, residential and other spaces that work in syncronicity with their surroundings. Our portfolio of completed projects or projects currently in progress includes commercial centers, office buildings, multipurpose halls, hotels, residential buildings, private residences, technical and industrial buildings, service spaces, buildings for medical services.
 
-
-############################ Clients ################################
+    As part of the 21st century, we belive that our architecture is an art which reflects and gives a mirror image of the variety and vivacity, tension and complexity of our cities. Architecture is not just a matter of technology and aesthetics, It’s about our quest to create surroundings that actively contribute to extraordinary everyday urban life. We belive in performance, great work and quality of life.
 clients:
-  enable : true
-  subtitle : "Our Clients"
-  title : "They Trust Us"
+  enable: true
+  subtitle: Our Clients
+  title: They Trust Us
   clients_logo:
-    - images/clients/client-logo-01.jpg
-    - images/clients/client-logo-02.jpg
-    - images/clients/client-logo-03.jpg
-    - images/clients/client-logo-04.jpg
-    - images/clients/client-logo-05.jpg
-    - images/clients/client-logo-06.jpg
-    - images/clients/client-logo-07.jpg
-    - images/clients/client-logo-08.jpg
+  - images/clients/client-logo-01.jpg
+  - images/clients/client-logo-02.jpg
+  - images/clients/client-logo-03.jpg
+  - images/clients/client-logo-04.jpg
+  - images/clients/client-logo-05.jpg
+  - images/clients/client-logo-06.jpg
+  - images/clients/client-logo-07.jpg
+  - images/clients/client-logo-08.jpg
