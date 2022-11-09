@@ -2,12 +2,12 @@
 banner:
   enable: true
   bg_image: images/hero/hero-bg-2.jpg
-  title: I.M. Design
-  content: Arhitect în Sector 1
+  title: ''
+  content: 'Ceva descriere '
   button:
     enable: true
-    label: Our Works
-    link: works
+    label: OBȚINE O OFERTĂ
+    link: https://imdesign.netlify.app/contact/
 service:
   enable: true
   bg_image: images/shape-big.png
