@@ -2,9 +2,8 @@
 banner:
   enable: true
   bg_image: images/hero/hero-bg-2.jpg
-  title: I.M.Design SRL
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
+  title: I.M. Design
+  content: Arhitect în Sector 1
   button:
     enable: true
     label: Our Works
