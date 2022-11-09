@@ -12591,7 +12591,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
   left: 0;
   height: 100%;
   width: 100%;
-  background: #ff0000;
+  background: #ffae47;
   z-index: 2;
   transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
   transition-delay: 0.5s;
@@ -12734,7 +12734,7 @@ p.sm {
 .btn-dark {
   border-radius: 0;
   padding: 20px 45px;
-  color: #ff0000;
+  color: #ffae47;
   text-transform: uppercase;
   font-family: "futura_bdcn_btbold";
   font-weight: 700;
@@ -12807,7 +12807,7 @@ body {
 .section-title h6 {
   font-family: "futurabook";
   letter-spacing: 5px;
-  color: #ff0000;
+  color: #ffae47;
   text-transform: uppercase;
 }
 .section-title h6 span {
@@ -12842,7 +12842,7 @@ body {
 
 ::-webkit-scrollbar-thumb {
   border-radius: 20px;
-  background: #ff0000;
+  background: #ffae47;
 }
 
 .headroom {
@@ -12883,7 +12883,7 @@ body {
 }
 .breadcrumb li a {
   font-size: 12px;
-  color: #ff0000;
+  color: #ffae47;
   text-decoration: none;
 }
 
@@ -12897,7 +12897,7 @@ body {
 .form-control:focus {
   outline: 0;
   box-shadow: none;
-  border-color: #ff0000;
+  border-color: #ffae47;
 }
 
 .navigation .navbar {
@@ -13206,7 +13206,7 @@ body {
   padding: 30px 25px;
   background: #fff;
   color: #000;
-  border-left: 5px solid #ff0000;
+  border-left: 5px solid #ffae47;
   box-shadow: 0 19px 32.55px 2.45px rgba(0, 0, 0, 0.08);
 }
 .work-single-sidebar {
@@ -13232,7 +13232,7 @@ body {
   width: 30px;
   height: 30px;
   border-radius: 100%;
-  background: #ff0000;
+  background: #ffae47;
   text-align: center;
   margin-bottom: 15px;
 }
@@ -13406,7 +13406,7 @@ body {
 }
 .team-member-content span {
   font-size: 14px;
-  color: #ff0000;
+  color: #ffae47;
 }
 
 .philosophy-content .section-title {
@@ -13463,7 +13463,7 @@ body {
   text-decoration: none;
 }
 .contact-info ul li a:hover {
-  color: #ff0000;
+  color: #ffae47;
 }
 .contact-form {
   position: absolute;
