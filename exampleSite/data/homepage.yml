@@ -2,8 +2,8 @@
 banner:
   enable: true
   bg_image: images/hero/hero-bg-2.jpg
-  title: ''
-  content: 'Ceva descriere '
+  title: Bucharest Architecture Firm
+  content: Description goes here
   button:
     enable: true
     label: CONTACT
