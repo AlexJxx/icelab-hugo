@@ -9,7 +9,7 @@ siteLink = "#"
 title = "Test Sectiune Proiect "
 
 +++
-# S-a facut aicea proiect f frumos se vede se alea cu poze ce vrei tu
+# 
 
 sflkdflksdfksdf
 
