@@ -6,6 +6,7 @@ date = 2022-11-07T22:00:00Z
 image = "/images/screenshot-2022-11-09-164345.png"
 location = "Sibiu, Strada Sibiului 5, Șelimbăr 557260"
 siteLink = "https://shoppingcitysibiu.ro/"
+tag-label-test = ["shipping mall", "commercial", "sibiu"]
 title = "Shopping City Sibiu"
 
 +++
