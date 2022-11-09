@@ -33,7 +33,7 @@ portfolio:
 testimonial:
   enable: true
   subtitle: Testimonials
-  title: LoveQuote <br> From Clients
+  title: Quotes From Clients
   testimonial_item:
   - name: Good Win
     image: images/testimonial/quote-person.png
