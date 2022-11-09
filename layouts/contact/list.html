@@ -16,7 +16,8 @@
                     <!-- Contact Form -->
                     <div class="contact-form">
                         <h4>Contact Form</h4>
-                        <form name="contact" method="POST" action="{{ .Site.Params.contact_form_action}}" class="row">
+                        <form name="contact" method="POST" data-netlify="true" action="{{ .Site.Params.contact_form_action}}" class="row">
+                        <input type="hidden" name="form-name" value="CONTACT" />
                             <div class="col-md-6">
                                 <input type="text" class="form-control" placeholder="Name" name="name" id="name">
                             </div>
