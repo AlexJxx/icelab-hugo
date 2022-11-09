@@ -31,7 +31,7 @@ portfolio:
   subtitle: Portfolio
   title: Our Recent Works
 testimonial:
-  enable: true
+  enable: false
   subtitle: Testimonials
   title: Quotes From Clients
   testimonial_item:
