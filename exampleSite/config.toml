@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://sparkly-unicorn-832e63.netlify.app/"
+baseURL = "https://imdesign.netlify.app/"
 languageCode = "en-us"
 title = "Icelab Studio"
 theme = "icelab-hugo"
