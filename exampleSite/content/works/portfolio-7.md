@@ -1,7 +1,7 @@
 +++
 category = "Shopping Mall"
-client = "NEPI ROCKCASTLE"
-company = ""
+client = "NEPI Rockcastle"
+company = "NEPI Rockcastle"
 date = 2022-11-07T22:00:00Z
 image = "/images/screenshot-2022-11-09-164345.png"
 location = "Sibiu, Strada Sibiului 5, Șelimbăr 557260"
