@@ -9,6 +9,14 @@ unsafe = true
 name = "Test External"
 url = "https://im-design-srl.business.site/"
 weight = 4
+
+
+  [[menu.main]]
+  parent = "Test External"
+  name = "Dropdown Item"
+  url = "https://gethugothemes.com/"
+  weight = 1
+
 [[menu.main]]
 URL = "contact"
 name = "Contact"
