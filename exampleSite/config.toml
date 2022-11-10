@@ -7,7 +7,7 @@ title = "I.M. Design"
 unsafe = true
 [[menu.main]]
 name = "Dropdown Item"
-parent = "Test External"
+parent = "Contact"
 url = "https://gethugothemes.com/"
 weight = 1
 [[menu.main]]
