@@ -1,15 +1,18 @@
 ---
-title: "Socket"
-date: 2019-08-29T15:38:38+06:00
-draft: false
-image: "images/portfolios/portfolio-4.jpg"
-company: "Absolut Inc."
-client: "Julia Robertson"
-category: "Investment, Business"
-location: "1201 park street, Avenue, Dhaka"
+title: Socket
+date: 2019-08-29T15:38:38.000+06:00
+image: images/portfolios/portfolio-4.jpg
+company: Absolut Inc.
+client: Julia Robertson
+category: Investment, Business
+location: 1201 park street, Avenue, Dhaka
 siteLink: "#"
----
+menu:
+  main:
+    weight: 2
+    parent: Works
 
+---
 ### Consectur in Bibendum
           
 Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt
