@@ -6,6 +6,11 @@ title = "I.M. Design"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "Random"
+parent = "Works"
+url = "https://docs.gethugothemes.com/icelab/navigation/"
+weight = 1
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1

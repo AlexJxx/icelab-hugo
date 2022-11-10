@@ -7,11 +7,6 @@ client: Julia Robertson
 category: Investment, Business
 location: 1201 park street, Avenue, Dhaka
 siteLink: "#"
-menu:
-  main:
-    name: Project 1
-    parent: Works
-    weight: 1
 
 ---
 ### Consectur in Bibendum
