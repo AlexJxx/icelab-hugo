@@ -13,24 +13,24 @@ url = "https://docs.gethugothemes.com/icelab/navigation/"
 weight = 1
 [[menu.main]]
 hasChildren = true
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
-hasChildren = true
-URL = "works"
-name = "Works"
-weight = 2
-[[menu.main]]
-hasChildren = true
-URL = "contact"
-name = "Contact"
-weight = 3
-[[menu.main]]
-hasChildren = true
 name = "Test External"
 url = "https://im-design-srl.business.site/"
 weight = 4
+[[menu.main]]
+URL = "contact"
+hasChildren = true
+name = "Contact"
+weight = 3
+[[menu.main]]
+URL = "works"
+hasChildren = true
+name = "Works"
+weight = 2
+[[menu.main]]
+URL = "about"
+hasChildren = true
+name = "About"
+weight = 1
 [outputs]
 home = ["HTML", "RSS"]
 [params]
