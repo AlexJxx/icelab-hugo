@@ -32,8 +32,8 @@ logo = "images/logo.png"
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyAMxZLJVnjXX4vmC15AXbkuqKn-PO8qovY"
-map_latitude = "44.439973674502525"
-map_longitude = "26.113690644176366"
+map_latitude = "44.43981608358871"
+map_longitude = "26.11364584176065"
 map_marker = "images/marker.png"
 [[params.plugins.js]]
 URL = "plugins/plugins.js"
