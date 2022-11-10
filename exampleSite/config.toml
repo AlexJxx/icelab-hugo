@@ -6,29 +6,26 @@ title = "I.M. Design"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Test External"
-url = "https://im-design-srl.business.site/"
-weight = 4
-
-
-  [[menu.main]]
-  parent = "Test External"
-  name = "Dropdown Item"
-  url = "https://gethugothemes.com/"
-  weight = 1
-
+name = "Dropdown Item"
+parent = "Test External"
+url = "https://gethugothemes.com/"
+weight = 1
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
+URL = "about"
+name = "About"
+weight = 1
 [[menu.main]]
 URL = "works"
 name = "Works"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.main]]
+name = "Test External"
+url = "https://im-design-srl.business.site/"
+weight = 4
 [outputs]
 home = ["HTML", "RSS"]
 [params]
