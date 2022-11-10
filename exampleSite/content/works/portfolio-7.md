@@ -8,6 +8,10 @@ location = "Sibiu, Strada Sibiului 5, Șelimbăr 557260"
 siteLink = "https://shoppingcitysibiu.ro/"
 tag-label-test = ["shipping mall", "commercial", "sibiu"]
 title = "Shopping City Sibiu"
+[menu.main]
+name = "Project 1"
+parent = "Works"
+weight = 1
 
 +++
 ## Extension & Refurbishment

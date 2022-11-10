@@ -6,11 +6,6 @@ title = "I.M. Design"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Dropdown Item"
-parent = "Contact"
-url = "https://gethugothemes.com/"
-weight = 1
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
