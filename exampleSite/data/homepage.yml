@@ -2,12 +2,12 @@
 banner:
   enable: true
   bg_image: images/hero/hero-bg-2.jpg
-  title: I.M. Design
-  content: Arhitect în Sector 1
+  title: Bucharest Architecture Firm
+  content: Description goes here
   button:
     enable: true
-    label: Our Works
-    link: works
+    label: CONTACT
+    link: https://imdesign.netlify.app/contact/
 service:
   enable: true
   bg_image: images/shape-big.png
