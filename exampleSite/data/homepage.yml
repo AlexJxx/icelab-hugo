@@ -2,8 +2,8 @@
 banner:
   enable: true
   bg_image: images/joshua-dow-wlbvsgnq_ig-unsplash.jpg
-  title: Bucharest Architecture Firm
-  content: Description goes here
+  title: I.M. Design S.R.L.
+  content: Arhitect in Sector 1
   button:
     enable: true
     label: CONTACT
