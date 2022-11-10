@@ -6,25 +6,20 @@ title = "I.M. Design"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+URL = "about"
 hasChildren = true
-name = "Test External"
-url = "https://im-design-srl.business.site/"
-weight = 4
-[[menu.main]]
-URL = "contact"
-hasChildren = true
-name = "Contact"
-weight = 3
+name = "About"
+weight = 1
 [[menu.main]]
 URL = "works"
 hasChildren = true
 name = "Works"
 weight = 2
 [[menu.main]]
-URL = "about"
+URL = "contact"
 hasChildren = true
-name = "About"
-weight = 1
+name = "Contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS"]
 [params]
