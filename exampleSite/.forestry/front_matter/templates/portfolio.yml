@@ -32,5 +32,10 @@ fields:
   label: tag-label
   description: test label
   hidden: false
+- name: developer
+  type: text
+  config:
+    required: false
+  label: developer
 pages:
 - exampleSite/content/works/portfolio-7.md
