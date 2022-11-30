@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Pascal
 date: 
 image: images/portfolios/portfolio-2.jpg
 company: ''
-client: ''
+client: FCSB
 category: Investment, Business
 location: ''
 siteLink: ''
