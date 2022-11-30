@@ -16,8 +16,8 @@ fields:
   name: company
   label: company
 - type: text
-  name: client__123
-  label: client_123
+  name: client
+  label: client
 - type: text
   name: tip_cladire
   label: tip cladire
