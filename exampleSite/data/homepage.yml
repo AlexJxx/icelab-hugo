@@ -2,8 +2,8 @@
 banner:
   enable: true
   bg_image: images/joshua-dow-wlbvsgnq_ig-unsplash.jpg
-  title: I.M. Design S.R.L.
-  content: Arhitect in Sector 1
+  title: I.M. Design
+  content: Arhitect in Sector 1, xcalea mosilor
   button:
     enable: true
     label: CONTACT
