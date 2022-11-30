@@ -4,6 +4,7 @@ client = "NEPI Rockcastle"
 company = "NEPI Rockcastle"
 date = 2022-11-07T22:00:00Z
 developer = ""
+lettable_area = []
 image = "/images/screenshot-2022-11-09-164345.png"
 lettable_area = "1000m"
 location = "Sibiu, Strada Sibiului 5, Șelimbăr 557260"
