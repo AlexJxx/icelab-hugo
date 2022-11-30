@@ -1,6 +1,7 @@
 ---
 label: Portfolio
 hide_body: false
+display_field: tip_cladire
 fields:
 - type: text
   name: title
