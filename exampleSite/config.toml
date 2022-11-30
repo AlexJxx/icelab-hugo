@@ -11,11 +11,6 @@ hasChildren = true
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "works"
-hasChildren = true
-name = "Works"
-weight = 2
-[[menu.main]]
 URL = "contact"
 hasChildren = true
 name = "Contact"
