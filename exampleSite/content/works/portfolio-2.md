@@ -1,12 +1,13 @@
 ---
-title: Pascal
-date: 2019-08-29T15:38:38.000+06:00
+title: ''
+date: 
 image: images/portfolios/portfolio-2.jpg
-company: Absolut Inc.
-client: Julia Robertson
+company: ''
+client: ''
 category: Investment, Business
-location: 1201 park street, Avenue, Dhaka
-siteLink: "#"
+location: ''
+siteLink: ''
+tip_cladire: pula
 
 ---
 ### Consectur in Bibendum
