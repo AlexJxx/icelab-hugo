@@ -26,12 +26,6 @@ fields:
 - type: text
   name: siteLink
   label: site link
-- name: tag-label-test
-  type: tag_list
-  default: []
-  label: tag-label
-  description: test label
-  hidden: false
 - name: developer
   type: text
   config:
