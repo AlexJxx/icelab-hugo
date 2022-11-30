@@ -1,12 +1,14 @@
 ---
-title: Socket
+title: Socket_Modi
 date: 2019-08-29T15:38:38.000+06:00
-image: images/portfolios/portfolio-4.jpg
+image: "/images/bash.jpg"
 company: Absolut Inc.
 client: Julia Robertson
 category: Investment, Business
 location: 1201 park street, Avenue, Dhaka
 siteLink: "#"
+tip_cladire: prajeala
+lettable_area: "1231231231"
 
 ---
 ### Consectur in Bibendum
