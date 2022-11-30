@@ -18,8 +18,8 @@ fields:
   name: client
   label: client
 - type: text
-  name: category
-  label: category
+  name: tip_cladire
+  label: tip cladire
 - type: text
   name: location
   label: location
@@ -37,5 +37,10 @@ fields:
   config:
     required: false
   label: developer
+- name: lettable_area
+  type: text
+  config:
+    required: false
+  label: lettable area
 pages:
 - exampleSite/content/works/portfolio-7.md
